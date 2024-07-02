@@ -1,6 +1,6 @@
 # Roblox-Script
 
-# ZD Hub | No Key / No Linkvertise / Free
+# ZD Hub | No Key / No Linkvertise / Free / Only Join Discord
 The ZD Hub is a powerful script designed for Roblox exploit users, providing privileged access to a constantly evolving collection of over 21 games. Each game is meticulously updated every week to ensure an optimal gaming experience. Whether you're a passionate player or a Roblox game developer, the ZD Hub offers advanced features and unmatched flexibility to explore and enjoy various games within the Roblox universe.
 
 Features:
