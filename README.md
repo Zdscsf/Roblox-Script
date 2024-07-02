@@ -6,13 +6,13 @@ The ZD Hub is a powerful script designed for Roblox exploit users, providing pri
 Features:
 Wide Selection of Games: Access over 21 popular Roblox games directly through the ZD Hub.
 
-Weekly Updates: Each game is regularly updated to include the latest features and fixes.
+***Weekly Updates:*** Each game is regularly updated to include the latest features and fixes.
 
-User-Friendly Interface: Easy-to-use with an intuitive user interface for seamless navigation.
+***User-Friendly Interface:*** Easy-to-use with an intuitive user interface for seamless navigation.
 
-Exploit Compatibility: Works with a variety of Roblox exploits for maximum compatibility.
+***Exploit Compatibility:*** Works with a variety of Roblox exploits for maximum compatibility.
 
-Active Support: Backed by a dedicated team to address issues and answer user queries.
+***Active Support:*** Backed by a dedicated team to address issues and answer user queries.
 
 Explore a new dimension of entertainment on Roblox with the ZD Hub and discover why thousands of players choose our platform for their gaming experience.
 
